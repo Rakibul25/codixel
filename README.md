@@ -1,16 +1,10 @@
-# codixel
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Flutter Project To Load Random Data
+I have utilized MVC as a software design pattern and BLoC for state management and separating business logic from the user interface.
+### Initial
+<img src="https://github.com/Rakibul25/codixel/blob/main/ss/initial.jpg" width="330" height="660">
+### Loading
+<img src="https://github.com/Rakibul25/codixel/blob/main/ss/loading.jpg" width="330" height="660">
+### Loaded01
+<img src="https://github.com/Rakibul25/codixel/blob/main/ss/loaded1.jpg" width="330" height="660">
+### Loaded02
+<img src="https://github.com/Rakibul25/codixel/blob/main/ss/loaded2.jpg" width="330" height="660">
